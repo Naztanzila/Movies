@@ -1,4 +1,4 @@
-# Movie Dataset Analysis and IMDb Rating Retrieval
+# Movie Dataset Analysis
 
 ## Overview
 
